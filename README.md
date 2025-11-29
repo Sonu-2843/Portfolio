@@ -28,8 +28,7 @@ It showcases my experience, AI/ML projects, skills, and contact details in a cle
 ## 📂 Project Structure
 
 ## 📸 Live Demo
-> *(Add link after you enable GitHub Pages)*  
-Example: https://your-username.github.io/your-portfolio/
+> https://sonu-2843.github.io/Portfolio/
 
 ---
 
